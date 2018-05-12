@@ -1,0 +1,26 @@
+_repo: Einfache-Erz-hlung-von-dem-schrecklichen-Absturze-des-Schrofenberges-und-der-dadurch-erfolgte__42937
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42937-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dachauer, Sebastian
+    gutenberg_agent_id: '41936'
+    url: http://www.gutenberg.org/2009/agents/41936
+description: ''
+gutenberg_issued: '2013-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42937'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Landslides -- Germany -- Brannenburg'
+title: "Einfache Erzählung von dem schrecklichen Absturze des Schrofenberges und der\
+  \ dadurch erfolgten Verwüstung bei Brannenburg im August 1851\r\nZum Beßten der\
+  \ Verunglückten"
+url: http://www.gutenberg.org/ebooks/42937
