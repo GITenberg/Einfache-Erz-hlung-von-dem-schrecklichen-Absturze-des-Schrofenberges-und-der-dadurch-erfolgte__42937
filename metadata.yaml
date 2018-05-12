@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41936'
     url: http://www.gutenberg.org/2009/agents/41936
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42937#Einfache-Erz-hlung-von-dem-schrecklichen-Absturze-des-Schrofenberges-und-der-dadurch-erfolgte_
 gutenberg_issued: '2013-06-13'
 gutenberg_type: Text
 identifiers:
